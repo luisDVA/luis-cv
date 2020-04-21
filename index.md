@@ -37,8 +37,9 @@ unheadr, R Package Version 0.2.1 [https://cran.r-project.org/package=unheadr](ht
 
 ` - `
 annotater,  addins for RStudio, Package Version 0.1.1 [https://github.com/luisDVA/annotater](https://github.com/luisDVA/annotater) 
+`-`  
+NBA Shot Preferences [Shiny Application](https://luisdva.shinyapps.io/NBA-shot-overlap/)  
   
-    
 <br>
 
 ### Last updated: April 2020
