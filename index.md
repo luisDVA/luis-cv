@@ -33,14 +33,14 @@ Investigador Nacional Nivel I. __Sistema Nacional de Investigadores__ (CONACyT, 
 [Google Scholar Profile](https://scholar.google.com/citations?user=Ii0dP6kAAAAJ&hl=en)
 ## Software
 ` - `
-unheadr, R Package Version 0.2.1 [https://cran.r-project.org/package=unheadr](https://cran.r-project.org/package=unheadr)  
+unheadr, R Package Version 0.3.1 [https://cran.r-project.org/package=unheadr](https://cran.r-project.org/package=unheadr)  
 
 ` - `
-annotater,  addins for RStudio, Package Version 0.1.1 [https://github.com/luisDVA/annotater](https://github.com/luisDVA/annotater) 
+annotater,  addins for RStudio, Package Version 0.1.3 [https://annotater.liomys.mx](https://github.com/luisDVA/annotater) 
 
 `-`
 NBA Shot Preferences [Shiny Application](https://luisdva.shinyapps.io/NBA-shot-overlap/)  
   
 <br>
 
-### Last updated: April 2020
+### Last updated: February 2020
