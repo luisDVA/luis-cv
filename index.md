@@ -41,9 +41,9 @@ __Investigador Nacional Nivel I. Sistema Nacional de Investadores, Consejo Nacio
 ### Software
 
 `2020`
-unheadr, R Package Version 0.2.1 [https://cran.r-project.org/package=unheadr](https://cran.r-project.org/package=unheadr)
+unheadr, R Package Version 0.3.1 [https://cran.r-project.org/package=unheadr](https://cran.r-project.org/package=unheadr)
 
 
 <!-- ### Footer
 
-Last updated: April 2020 -->
+Last updated: February 2021 -->
