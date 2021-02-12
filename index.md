@@ -11,8 +11,8 @@ Mammalogy, Macroecology, Conservation, Data Organization and Visualization
 ## Research interests
 
 Collections-based research, ecomorphology of bats and rodents, biodiversity data science, data sharing, conservation biology, phylogenetic comparative methods, R programming.
-## Education
 
+## Education
 `2004-2009`
 Universidad Nacional Autónoma de México, Mexico. __BSc - Biology__
 
@@ -29,6 +29,8 @@ Universidad Austral de Chile, Chile. __Postdoctoral Researcher__
 Member, *IUCN SSC Small Mammal Specialist Group*   
 `-`
 Investigador Nacional Nivel I. __Sistema Nacional de Investigadores__ (CONACyT, Mexico)
+`-` RStudio Education [Certified Trainer (tidyverse)](https://education.rstudio.com/trainers/people/verde_arregoitia+luis/)
+
 ## Publications
 [Google Scholar Profile](https://scholar.google.com/citations?user=Ii0dP6kAAAAJ&hl=en)
 ## Software
