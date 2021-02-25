@@ -46,4 +46,4 @@ NBA Shot Preferences [Shiny Application](https://luisdva.shinyapps.io/NBA-shot-o
   
 <br>
 
-### Last updated: February 2020
+### Last updated: February 2021
